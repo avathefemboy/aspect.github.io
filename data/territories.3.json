@@ -1,1 +1,16 @@
-
+```json
+	{
+		"type": "Territories",
+		"title": "<Test>",
+		"notes": "<TestTest>",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
+		"latlngarray": [
+			{"lat": -71.256, "lng": -27.620},
+			{"lat": -71.086, "lng": -23.885},
+			{"lat": -73.677, "lng": -24.736},
+			{"lat": -73.578, "lng": -27.548}
+		]
+	},
+```
